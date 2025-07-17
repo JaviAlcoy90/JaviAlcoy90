@@ -25,7 +25,7 @@ Bases de datos: MySQL
 
 <br>
 
-<h2>Tecnologías conocidas</h2>
+<h2>Tecnologías</h2>
 
 <p align="left">
 
